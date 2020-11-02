@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    
+    <meta charset="utf-8">
+    
+    <title>梦魇迷の二刺螈|老debu了</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="theme-color" content="#3F51B5">
+    
+</head>
+
+<body>
+	<a class="post-title-link" href="https://item.jd.com/100016047066.html">
+        东芝 1T ￥329 Type-C<br/>
+	</a>
+	<img src="img/dz.jpg" /><br/>
+	<a class="post-title-link" href="https://item.jd.com/100002735602.html">
+        西数 1T ￥439 Type-C<br/>
+	</a>
+	<img src="img/xs.jpg"><br/>
+	<a class="post-title-link" href="https://item.jd.com/100003861449.html">
+        希捷 1T ￥359 非Type-C 星辰/锦鲤外壳<br/>
+	</a>
+	<img src="img/xj.jpg"><br/>
+  <script>
+  (function() {
+      var OriginTitile = document.title, titleTime;
+      document.addEventListener('visibilitychange', function() {
+          if (document.hidden) {
+              document.title = '嘤嘤嘤,别走嘛！';
+              clearTimeout(titleTime);
+         } else {
+              document.title = '(つェ⊂)你回来啦~';
+              titleTime = setTimeout(function() {
+                  document.title = OriginTitile;
+              },2000);
+            }
+      });
+  })();
+  </script>
+
+</body>
+</html>
